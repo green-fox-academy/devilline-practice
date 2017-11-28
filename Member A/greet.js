@@ -1,6 +1,6 @@
 'use strict'
 
-let greet = "Kamo";
+let greet = "Greetings!";
 
 function printer (greet) {
     console.log(greet);
