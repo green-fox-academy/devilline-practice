@@ -9,5 +9,5 @@ function printAge (age, name){
 let age = "Counting the countless";
 
 let age = "125";
-let name = "Ztheman"
+let name = "Zthemanguimyci,k"
 
