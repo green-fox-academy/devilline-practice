@@ -2,6 +2,5 @@
 
 let greet = "Greetings!";
 
-function printer () {
-    console.log(greet);
-};
+
+console.log(greet);
