@@ -1,14 +1,10 @@
 'use strict'
 
-let greet = "Greetings!";
+let greet = "Greetings,";
+let name = "Aagi"
 
-<<<<<<< HEAD
-
-console.log(greet);
-=======
-function printer (greet) {
-    console.log(greet);
+function printer (greet, name) {
+    console.log(greet + " " + name);
 };
 
-printer(greet)
->>>>>>> baa9d6339bb19b733a1e5e09726c184cb750ae99
+printer(greet, name);
