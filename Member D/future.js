@@ -4,4 +4,4 @@ let future = 'citromlepke(nem tudom a kinai horoszkopom)';
 
 // Random comment
 
-console.log(future);
+console.log("Your future looks like " + future);
