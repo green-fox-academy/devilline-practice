@@ -1,6 +1,6 @@
 'use strict'
 
-let future = 'Random text';
+let future = 'citromlepke(nem tudom a kinai horoszkopom)';
 
 // Random comment
 
