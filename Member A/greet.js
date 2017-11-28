@@ -1,5 +1,5 @@
 'use strict'
 
-let greet = "Kamo";
+let greet = "Greetings!";
 
 console.log(greet);
