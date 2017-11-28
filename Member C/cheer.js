@@ -1,3 +1,3 @@
-let cheer = "laci";
+let cheer = "Cheer Lacika";
 
 console.log(cheer);
