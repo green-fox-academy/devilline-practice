@@ -1,7 +1,6 @@
 'use strict'
 
-let future = 'citromlepke(nem tudom a kinai horoszkopom)';
+let future1 = 'Random';
+let future2 = 'text';
 
-// Random comment
-
-console.log(future);
+console.log(future1 + ' ' + future2);
