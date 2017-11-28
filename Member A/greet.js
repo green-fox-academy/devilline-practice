@@ -2,4 +2,6 @@
 
 let greet = "Kamo";
 
-console.log(greet);
+function printer () {
+    console.log(greet);
+};
